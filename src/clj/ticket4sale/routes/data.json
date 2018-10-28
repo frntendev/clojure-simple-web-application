@@ -1,0 +1,602 @@
+[
+    {
+      "title": "39 STEPS, THE",
+      "opening-date": "2017-11-10",
+      "genre": "COMEDY"
+    },
+    {
+      "title": "A MIDSUMMER NIGHT%u2019S DREAM - IN NEW ORLEANS",
+      "opening-date": "2018-04-28",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "ANNIE JR",
+      "opening-date": "2018-03-11",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "AS IS",
+      "opening-date": "2017-11-12",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "AS YOU LIKE IT",
+      "opening-date": "2018-03-16",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "AUDIENCE, THE",
+      "opening-date": "2018-05-05",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "BAKKHAI",
+      "opening-date": "2017-10-04",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "BARBARIANS",
+      "opening-date": "2018-06-01",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "BEAUTIFUL - THE CAROLE KING MUSICAL",
+      "opening-date": "2017-09-06",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "BEAUX' STRATAGEM, THE",
+      "opening-date": "2017-12-03",
+      "genre": "COMEDY"
+    },
+    {
+      "title": "BEND IT LIKE BECKHAM THE MUSICAL",
+      "opening-date": "2017-12-12",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "BILLY ELLIOT - THE MUSICAL",
+      "opening-date": "2018-04-16",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "BOOK OF MORMON , THE",
+      "opening-date": "2018-02-28",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "BRAINSTORM",
+      "opening-date": "2018-03-02",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "BREAKFAST AT TIFFANY'S",
+      "opening-date": "2018-07-02",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "CARETAKER, THE",
+      "opening-date": "2018-06-28",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "CATS",
+      "opening-date": "2017-10-05",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "CHARLIE AND THE CHOCOLATE FACTORY - THE MUSICAL",
+      "opening-date": "2018-04-18",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "COMEDY OF ERRORS",
+      "opening-date": "2018-03-01",
+      "genre": "COMEDY"
+    },
+    {
+      "title": "COMMITMENTS, THE",
+      "opening-date": "2017-09-16",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "CONSENSUAL",
+      "opening-date": "2018-03-12",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "CONSTELLATIONS",
+      "opening-date": "2018-02-04",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "CREDITORS",
+      "opening-date": "2017-12-02",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "CURIOUS INCIDENT OF THE DOG IN THE NIGHT-TIME, THE",
+      "opening-date": "2018-01-11",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "CYMBELINE",
+      "opening-date": "2018-03-07",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "DAWN FRENCH: 30 MILLION MINUTES",
+      "opening-date": "2018-06-13",
+      "genre": "COMEDY"
+    },
+    {
+      "title": "DEAR LUPIN",
+      "opening-date": "2018-05-09",
+      "genre": "COMEDY"
+    },
+    {
+      "title": "DEATH OF A SALESMAN",
+      "opening-date": "2018-04-20",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "DR SEUSS'S THE LORAX",
+      "opening-date": "2017-10-24",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "ELEPHANT MAN, THE",
+      "opening-date": "2018-06-14",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "ELF THE MUSICAL",
+      "opening-date": "2018-02-28",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "ENTERTAINER, THE",
+      "opening-date": "2018-06-11",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "EVENING AT THE TALK HOUSE",
+      "opening-date": "2017-09-16",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "EVERYMAN",
+      "opening-date": "2018-06-18",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "FARINELLI AND THE KING",
+      "opening-date": "2018-07-02",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "FATHER, THE",
+      "opening-date": "2017-09-08",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "FUTURE CONDITIONAL",
+      "opening-date": "2018-04-03",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "GREEN DAY'S AMERICAN IDIOT",
+      "opening-date": "2017-11-01",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "GROUNDHOG DAY",
+      "opening-date": "2017-12-05",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "GUYS AND DOLLS",
+      "opening-date": "2018-07-05",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "GYPSY",
+      "opening-date": "2017-09-03",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "HAIRY APE, THE",
+      "opening-date": "2018-05-18",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "HAMLET",
+      "opening-date": "2018-04-13",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "HARLEQUINADE / ALL ON HER OWN (Double Bill)",
+      "opening-date": "2018-05-10",
+      "genre": "COMEDY"
+    },
+    {
+      "title": "HARRY POTTER AND THE CURSED CHILD",
+      "opening-date": "2018-04-28",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "HAY FEVER",
+      "opening-date": "2018-08-07",
+      "genre": "COMEDY"
+    },
+    {
+      "title": "HERE WE GO",
+      "opening-date": "2018-06-10",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "HERESY OF LOVE, THE",
+      "opening-date": "2018-02-20",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "HETTY FEATHER",
+      "opening-date": "2018-02-06",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "HIGH SOCIETY",
+      "opening-date": "2018-05-07",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "HUSBANDS AND SONS",
+      "opening-date": "2018-02-13",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "I WANT MY HAT BACK",
+      "opening-date": "2018-05-18",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "IMPORTANCE OF BEING EARNEST, THE",
+      "opening-date": "2018-01-10",
+      "genre": "COMEDY"
+    },
+    {
+      "title": "JANE EYRE",
+      "opening-date": "2018-04-25",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "JERSEY BOYS",
+      "opening-date": "2017-10-24",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "KINKY BOOTS",
+      "opening-date": "2018-08-23",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "LA MUSICA",
+      "opening-date": "2018-01-01",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "LES LIAISONS DANGEREUSES",
+      "opening-date": "2018-02-22",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "LES MISERABLES",
+      "opening-date": "2018-02-13",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "LET IT BE",
+      "opening-date": "2017-11-21",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "LIGHTS! CAMERA! IMPROVISE!",
+      "opening-date": "2018-04-28",
+      "genre": "COMEDY"
+    },
+    {
+      "title": "LION KING, THE",
+      "opening-date": "2018-01-09",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "LORD OF THE DANCE  - DANGEROUS GAMES",
+      "opening-date": "2017-10-20",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "LORD OF THE FLIES, THE",
+      "opening-date": "2017-09-04",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "MA RAINEY'S BLACK BOTTOM",
+      "opening-date": "2018-05-10",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "MACBETH",
+      "opening-date": "2018-05-17",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "MACBETH (in Cantonese)",
+      "opening-date": "2018-08-07",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "MAMMA MIA!",
+      "opening-date": "2018-06-24",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "MASTER BUILDER, THE",
+      "opening-date": "2018-08-03",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "MATILDA THE MUSICAL",
+      "opening-date": "2018-03-27",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "MEASURE FOR MEASURE",
+      "opening-date": "2018-08-08",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "MEDEA",
+      "opening-date": "2017-10-01",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "MEMPHIS THE MUSICAL",
+      "opening-date": "2018-05-10",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "MENTALISTS, THE",
+      "opening-date": "2018-01-11",
+      "genre": "COMEDY"
+    },
+    {
+      "title": "MERCHANT OF VENICE, THE",
+      "opening-date": "2018-05-03",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "MISS SAIGON",
+      "opening-date": "2017-12-20",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "MOTHERF**KER WITH THE HAT, THE",
+      "opening-date": "2018-07-12",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "MOTOWN THE MUSICAL",
+      "opening-date": "2018-05-02",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "MOUSETRAP, THE",
+      "opening-date": "2018-08-12",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "MUCH ADO ABOUT NOTHING",
+      "opening-date": "2018-07-18",
+      "genre": "COMEDY"
+    },
+    {
+      "title": "MY CHILDREN! MY AFRICA!",
+      "opening-date": "2017-10-17",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "NELL GWYNN",
+      "opening-date": "2018-02-17",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "NUMBER, A",
+      "opening-date": "2018-01-23",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "OMEROS",
+      "opening-date": "2018-04-25",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "ORESTEIA",
+      "opening-date": "2018-06-21",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "OUR COUNTRY'S GOOD",
+      "opening-date": "2018-03-24",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "PAINKILLER, THE",
+      "opening-date": "2018-05-21",
+      "genre": "COMEDY"
+    },
+    {
+      "title": "PEOPLE, PLACES AND THINGS",
+      "opening-date": "2018-03-27",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "PERICLES",
+      "opening-date": "2017-12-13",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "PHANTOM OF THE OPERA, THE",
+      "opening-date": "2018-07-25",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "PHOTOGRAPH 51",
+      "opening-date": "2018-05-21",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "PLAY THAT GOES WRONG, THE",
+      "opening-date": "2017-12-12",
+      "genre": "COMEDY"
+    },
+    {
+      "title": "POMONA",
+      "opening-date": "2018-06-21",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "RED LION, THE",
+      "opening-date": "2017-11-05",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "RICHARD II",
+      "opening-date": "2017-09-10",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "RICHARD III (in Mandarin)",
+      "opening-date": "2018-08-04",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "ROMEO AND JULIET",
+      "opening-date": "2018-03-04",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "SEVEN BRIDES FOR SEVEN BROTHERS",
+      "opening-date": "2018-08-02",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "SINATRA AT THE LONDON PALLADIUM",
+      "opening-date": "2017-09-09",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "SONG FROM FAR AWAY",
+      "opening-date": "2018-06-03",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "SPLENDOUR",
+      "opening-date": "2018-05-01",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "STOMP",
+      "opening-date": "2017-12-11",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "SUNNY AFTERNOON",
+      "opening-date": "2018-06-24",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "TEDDY FERRARA",
+      "opening-date": "2017-09-20",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "TEMPEST, THE",
+      "opening-date": "2018-01-28",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "TEMPLE",
+      "opening-date": "2018-05-07",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "THE ODYSSEY: MISSING PRESUMED DEAD",
+      "opening-date": "2017-11-04",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "THOMAS TALLIS",
+      "opening-date": "2017-11-07",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "THREE DAYS IN THE COUNTRY",
+      "opening-date": "2017-09-02",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "THREE LITTLE PIGS, THE",
+      "opening-date": "2017-11-08",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "THRILLER  LIVE",
+      "opening-date": "2019-01-10",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "TO KILL A MOCKINGBIRD",
+      "opening-date": "2017-10-17",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "TRIAL, THE",
+      "opening-date": "2018-02-23",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "WAR HORSE",
+      "opening-date": "2018-03-03",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "WASTE",
+      "opening-date": "2018-05-17",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "WICKED",
+      "opening-date": "2018-06-05",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "WINTER'S TALE, THE",
+      "opening-date": "2018-06-23",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "WOMAN IN BLACK, THE",
+      "opening-date": "2018-02-10",
+      "genre": "DRAMA"
+    },
+    {
+      "title": "WONDER.LAND",
+      "opening-date": "2018-01-21",
+      "genre": "MUSICAL"
+    },
+    {
+      "title": "WUTHERING HEIGHTS",
+      "opening-date": "2017-10-25",
+      "genre": "DRAMA"
+    }
+  ]
